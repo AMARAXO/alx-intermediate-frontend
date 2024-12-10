@@ -1,0 +1,4 @@
+### Steps to install sass
+- 1. open the vs code
+2. Open a terminal or command line
+3. use npm install -g sass
